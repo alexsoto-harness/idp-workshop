@@ -40,7 +40,7 @@ metadata:
     - soto
 spec:
   type: service
-  owner: change-value
+  owner: TeamA
   lifecycle: experimental
   consumesApis:
     - spotify
